@@ -1,0 +1,10 @@
+{
+  "name": "protobuf-plugin",
+  "version": "1.0.0",
+  "private": false,
+  "author": "frank",
+  "dependencies": {
+    "pomelo-logger": "0.1.2",
+    "protobufjs": "^6.8.8"
+  }
+}
